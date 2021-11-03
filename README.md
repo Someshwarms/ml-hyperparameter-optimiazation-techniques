@@ -1,6 +1,7 @@
 # ml-hyperparameter-optimiazation-techniques
 
-Techniques Of Hyper Parameter Optimization
+Techniques Of Hyper Parameter Optimization:
+
 Manual hyperparameter optimiazation,
 GridSearchCV,
 RandomizedSearchCV,
